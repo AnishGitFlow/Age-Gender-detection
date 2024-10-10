@@ -89,4 +89,3 @@ Ensure all these files are available in the same directory as the script for it 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
