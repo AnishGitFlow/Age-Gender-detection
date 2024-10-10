@@ -90,11 +90,3 @@ Ensure all these files are available in the same directory as the script for it 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Instructions to Use This README
-
-1. **Create a README File**: In your project directory, create a file named `README.md`.
-2. **Copy and Paste**: Copy the above content and paste it into your `README.md` file.
-3. **Customize**: Update the GitHub link in the "Clone the Repository" section to point to your actual repository. You can also modify the content further to fit your project needs.
-
-If you need any additional changes or specific sections added, feel free to ask!
