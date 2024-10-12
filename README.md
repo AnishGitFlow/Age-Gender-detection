@@ -40,12 +40,12 @@ cd age-gender-detection
 I have not added the following two model files to the repository. You will need to download them manually from the internet:
 
 1. **Age Detection Model**
-   - **Age Prototxt file (age_deploy.prototxt):** [Download here](https://github.com/spmallick/learnopencv/blob/master/AgeGender/models/age_deploy.prototxt)
-   - **Age Model (age_net.caffemodel):** [Download here](https://github.com/spmallick/learnopencv/blob/master/AgeGender/models/age_net.caffemodel)
+   - **Age Prototxt file (age_deploy.prototxt):**
+   - **Age Model (age_net.caffemodel):**
 
 2. **Gender Detection Model**
-   - **Gender Prototxt file (gender_deploy.prototxt):** [Download here](https://github.com/spmallick/learnopencv/blob/master/AgeGender/models/gender_deploy.prototxt)
-   - **Gender Model (gender_net.caffemodel):** [Download here](https://github.com/spmallick/learnopencv/blob/master/AgeGender/models/gender_net.caffemodel)
+   - **Gender Prototxt file (gender_deploy.prototxt):**
+   - **Gender Model (gender_net.caffemodel):**
 
 Make sure to place these files in the same directory as your Python script.
 
