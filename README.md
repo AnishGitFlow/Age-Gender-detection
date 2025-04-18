@@ -32,7 +32,7 @@ pip install opencv-python opencv-python-headless numpy
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/age-gender-detection.git
+git clone https://github.com/AnishGitFlow/age-gender-detection.git
 cd age-gender-detection
 ```
 
@@ -90,6 +90,3 @@ The following files are used for face detection, age prediction, and gender pred
   - `gender_net.caffemodel` (Download from the link provided)
 
 Ensure all these files are available in the same directory as the script for it to run correctly.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
